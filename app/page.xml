@@ -1,0 +1,11 @@
+<Page loaded="onPageLoaded" xmlns="http://schemas.nativescript.org/tns.xsd">
+  <!-- <Label text="{{ name }}"></Label> -->
+  <!-- <ScrollView orientation="vertical"> -->
+    <!-- <GridLayout class="m-10" columns="auto, auto" rows="auto, auto, auto"> -->
+      <!-- <Label width="50" height="5" class="h3 m-15" col="0" row="0" text="Title 1" />
+      <Label width="50" height="50" class="h3 m-15" col="1" row="0" text="Title 4" />
+      <Label width="50" height="5" class="h3 m-15" col="0" row="1" text="Title 1" />
+      <Label width="50" height="50" class="h3 m-15" col="1" row="1" text="Title 4" /> -->
+    <!-- </GridLayout> -->
+  <!-- </ScrollView> -->
+</Page>
